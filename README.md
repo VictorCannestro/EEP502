@@ -1,4 +1,5 @@
-# EEP 502 Analytical Methods for Electrical Engineers
+# EEP 502 Analytical Methods for Electrical Engineers 
+#### Fall 2019
 
 - 9/25: Python for Analysis
 
