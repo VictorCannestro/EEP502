@@ -1,5 +1,5 @@
 # EEP 502 Analytical Methods for Electrical Engineers 
-A compilation of notes, homework solutions, and related readings I can vouch for as the TA for the fall 2019 quarter's incarnation of EEP 502. See also [the course repo](https://github.com/klavins/EE502P) maintained by Dr. Klavins.
+A compilation of notes, homework solutions, and related readings I can vouch for as the TA for the fall 2019 quarter's incarnation of EEP 502. See also [the 2019 course repo](https://github.com/klavins/EE502P).
 
 #### Fall 2019 Schedule
 
